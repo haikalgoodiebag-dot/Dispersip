@@ -1,0 +1,6 @@
+{
+  "name": "Agenda Kegiatan Dispersip Banjarmasin",
+  "description": "Sistem otomasi pengelolaan surat masuk, analisis AI Gemini, lembar disposisi pimpinan, dan agenda kegiatan Dinas Perpustakaan dan Kearsipan Kota Banjarmasin.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
